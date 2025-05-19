@@ -15,7 +15,8 @@ To evaluate and compare the effectiveness of prompting patterns and techniques a
 
 ## 1. What is Prompting in Generative AI?
 
-<img src="https://github.com/user-attachments/assets/73bb2d8e-9072-4af1-97d5-e0e8156d2ba2" width="500" />
+
+![maxresdefault](https://github.com/user-attachments/assets/b6fc41ea-2f06-4ca0-ad8f-7973a981e5aa)
 
 
 Prompting in Generative AI refers to the method of instructing a language model to produce a desired output by giving it specific input text. It acts as the guiding question or command that informs the model what task to perform or how to respond. There are various prompting techniques ranging from simple direct commands to complex, structured prompts for better control and accuracy. Prompting is crucial in controlling the quality, relevance, and depth of the AI-generated responses, especially in real-world applications like summarization, translation, or coding.
@@ -28,7 +29,8 @@ Prompting in Generative AI refers to the method of instructing a language model 
 
 ## 2. Types of Prompting Patterns
 
-<img src="![image](https://github.com/user-attachments/assets/ffefec0d-63fe-4632-819a-7be42b3bd10d)" width="500" />
+![images (2)](https://github.com/user-attachments/assets/6e3e4cc4-9e42-4885-af05-e6280e0e48a0)
+
 
 
 
@@ -90,7 +92,8 @@ Prompting in Generative AI refers to the method of instructing a language model 
 
 ## 6. Applications and Practical Impacts
 
-![image](https://github.com/user-attachments/assets/34d6b7f8-bf74-4cf2-a1b6-983112d3852e)
+
+![images (1)](https://github.com/user-attachments/assets/090d3dd8-c257-428a-82ba-1fe8574107f9)
 
 
 Prompting patterns influence performance in:
@@ -173,7 +176,7 @@ To ensure fairness:
 
 ## 15. Chain-of-Thought Efficiency
 
-![image](https://github.com/user-attachments/assets/ed1cee84-ea75-4774-8c6f-56859c3082b3)
+![1_Y3NcOsF4O8NAA2eOk38qLw](https://github.com/user-attachments/assets/13eb501e-ac22-4d82-b001-0c6e994c4ab3)
 
 - Improved reasoning in math/logical tasks.
 - Helps break down problems step-by-step, allowing the model to provide more accurate and logical conclusions.
